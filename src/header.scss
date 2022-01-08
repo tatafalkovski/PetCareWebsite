@@ -1,0 +1,27 @@
+.logo {
+    // max-height: 100px;
+    max-width: 200px;
+}
+
+.flex-wrapper {
+    display: flex;
+}
+.jjc {
+    justify-content: center;
+}
+.aic {
+    align-items: center;
+}
+.jcsb {
+    justify-content: space-between;
+}
+.btn-call {
+    background: linear-gradient(180deg, #FFA992 0%, #FF7852 65%);
+    box-shadow: 0px 10px 25px rgba(255, 124, 84, 0.3);
+    border-radius: 30px;
+    color: #fff;
+    padding: 16px 35px;
+}
+.header-item {
+    margin-right: 55px;
+}
